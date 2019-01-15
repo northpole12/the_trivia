@@ -1,0 +1,67 @@
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #FF8F00;
+  font-weight: 800;
+  font-size: 32px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #666;
+  font-weight: 400;
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  color: #666;
+  font-weight: 200;
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+input {
+  padding: 10px 20px;
+  border: 1px solid #999;
+  border-radius: 3px;
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+input:focus {
+  border-color: #FF6F00;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 3px;
+  background: #FF6F00;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: inline-block;
+  border: 0px;
+  cursor: pointer;
+}
+
+.score {
+  color: #666;
+  font-weight: 600;
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+.return-home {
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  background: white;
+  color: #FF6F00;
+  border: 1px solid;
+  cursor: pointer;
+}
